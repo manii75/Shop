@@ -1,0 +1,214 @@
+.prodcutpart2 h2{
+    font-size: 32px;
+    color: rgb(66, 64, 64);
+    color: white;
+}
+.prodcutpart2 h4{
+    color: white;
+    font-size: 30px;
+}
+.prodcutpart2 p{
+    font-size: 20px;
+    color: white;
+}
+body {
+    height: 100%;
+    margin: 0;
+    background: #162944;
+  }
+  
+  .button_slide {
+    color: white;
+    border: 2px solid black;
+    border-radius: 0px;
+    padding: 18px 36px;
+    display: inline-block;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 14px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    box-shadow: inset 0 0 0 0 purple;
+    -webkit-transition: ease-out 0.4s;
+    -moz-transition: ease-out 0.4s;
+    transition: ease-out 0.4s;
+  }
+  
+  
+  
+  .slide_right:hover {
+    
+    box-shadow: inset 400px 0 0 0 purple;
+    color:white; 
+    border: none;
+    
+  }
+  
+  
+  
+  
+  
+  #outer {
+    width: 364px;
+    margin: 50px auto 0 auto;
+    text-align: center;
+  }
+
+
+
+
+ /* for procut one */
+  .slideimg {
+    position: relative;
+    width: 70%;
+  }
+  
+  .image {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #008CBA;
+    overflow: hidden;
+    width: 100%;
+    height: 0;
+    transition: .5s ease;
+  }
+  
+  .slideimg:hover .overlay {
+    height: 100%;
+  }
+  
+  .text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .text button{
+    width: 140px;
+    background-color: black;
+    color: white;
+  }
+
+
+
+ /* for product 2 */
+  .slideimg2 {
+    position: relative;
+    width: 70%;
+  }
+  
+  .image2 {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .overlay2 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #008CBA;
+    overflow: hidden;
+    width: 100%;
+    height: 0;
+    transition: .5s ease;
+  }
+  
+  .slideimg2:hover .overlay2 {
+    height: 100%;
+  }
+  
+  .text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .text button{
+    width: 140px;
+    background-color: black;
+    color: white;
+  }
+
+
+   /* for product 3 */
+  
+  .slideimg3 {
+    position: relative;
+    width: 70%;
+  }
+  
+  .image3 {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .overlay3 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #008CBA;
+    overflow: hidden;
+    width: 100%;
+    height: 0;
+    transition: .15s ease;
+  }
+  
+  .slideimg3:hover .overlay3 {
+    height: 100%;
+
+  }
+  
+  .text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .text button{
+    width: 140px;
+    background-color: black;
+    color: white;
+  }
+
+
+
+  /* product display  */
+  .product-heading h4{
+    font-size: 35px;
+    margin-left: 105px;
+    text-align: center;
+    color: white;
+  }
+#displayone p{
+  font-size: 20px;
+  color: white;
+}

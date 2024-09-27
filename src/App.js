@@ -1,25 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import Mandeep from "./component/Mandeep";
+
+// import Dataobject from "./Prop/Dataobject";
+// import Shopbject from "./Prop/Shopbject";
+// import Contactform from "./Prop/Contactform"
+
 
 function App() {
+ 
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+   <>
+   
+   <Mandeep/>
+    {/* <Dataobject/> */ }
+   {/* <Shopbject/> */}
+   {/* <Contactform/> */}
+  
+  
+   </>
+
+  
+);
 }
 
 export default App;

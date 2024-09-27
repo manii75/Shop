@@ -1,0 +1,33 @@
+
+[
+    {
+        "id":1,
+        "image":"../asset/Advance-Diploma-in-Computer-Application-ADCA.png",
+       "title":"Advance Diploma in Computer Application (ADCA",
+        
+       "descrption":" A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, ..."
+   
+       
+       
+    },
+    {
+        "id":2,
+        "title":"Advance Diploma in Computer Application (ADCA",
+        
+        "descrption":"A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, ...",
+        "image":"../asset/blog-1.jpg"
+ 
+        
+     },
+     {
+        "id":3,
+        "title":"Advance Diploma in Computer Application (ADCA",
+        
+        "descrption":"       A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, ...",
+          "image":"../asset/drees6.jpg"
+
+        
+     }
+    
+
+]

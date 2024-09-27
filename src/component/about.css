@@ -1,0 +1,122 @@
+
+.flip-card {
+    background-color:transparent;
+    width: 300px;
+    height: 300px;
+    
+    perspective: 1000px;
+  }
+  
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    /* box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); */
+  }
+  
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
+  
+  .flip-card-front {
+    /* background-color: #bbb; */
+    color: black;
+  }
+  
+  .flip-card-back {
+    /* background-color: #2980b9; */
+    color: white;
+    transform: rotateY(180deg);
+  }
+
+
+
+
+
+  /* blog */
+  .blogingside img :hover{
+    width: 150%;
+  }
+  .blogimg1:hover{
+    transform: scale(1.1);
+    transition: transform 0.3s ease; 
+  }
+  .blog1text{
+    width:370px;
+    height: 80px;
+    
+    background-color:#088f8f;
+  }
+
+
+
+
+
+  
+
+body {
+  height: 100%;
+  margin: 0;
+  background: #162944;
+}
+
+.button_slide {
+  color: #FFF;
+  border: 2px solid white;
+  border-radius: 0px;
+  padding: 18px 36px;
+  display: inline-block;
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 14px;
+  letter-spacing: 1px;
+  cursor: pointer;
+  box-shadow: inset 0 0 0 0 white;
+  -webkit-transition: ease-out 0.4s;
+  -moz-transition: ease-out 0.4s;
+  transition: ease-out 0.4s;
+}
+
+
+
+.slide_right:hover {
+  
+  box-shadow: inset 400px 0 0 0 white;
+  color:#088f8f; 
+  
+}
+
+
+
+
+
+#outer {
+  width: 364px;
+  margin: 50px auto 0 auto;
+  text-align: center;
+}
+
+
+
+
+/* slideup product */
+.bubtn a{
+  width: 250px;
+  height: 45px;
+  margin-left: 25px;
+  background-color: black;
+  border: none;
+  color: white;
+  font-size: 20px;
+  border-radius: 0px;
+}
