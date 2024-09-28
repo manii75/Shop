@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Shop/static/css/main.a827fdd2.css",
+    "main.js": "/Shop/static/js/main.a30f9d69.js",
+    "static/js/453.8484b8ce.chunk.js": "/Shop/static/js/453.8484b8ce.chunk.js",
+    "static/media/teenager-student-arm-studio-body-removebg-preview.png": "/Shop/static/media/teenager-student-arm-studio-body-removebg-preview.c79d814ca1b39e5b0f5b.png",
+    "static/media/single-slide-2.png": "/Shop/static/media/single-slide-2.fecbf39508adf5989254.png",
+    "static/media/single-slide-hm1-2.png": "/Shop/static/media/single-slide-hm1-2.1714a921d56b338d70f7.png",
+    "static/media/dress5.jpg": "/Shop/static/media/dress5.0a3f71523c39329cd627.jpg",
+    "static/media/dress4.jpg": "/Shop/static/media/dress4.f71555fbc6f04bf77807.jpg",
+    "static/media/dresss1.jpg": "/Shop/static/media/dresss1.22d0bce2e4235f061c79.jpg",
+    "static/media/dress3.jpg": "/Shop/static/media/dress3.a8e55da3af244cd663c4.jpg",
+    "static/media/dress7.jpg": "/Shop/static/media/dress7.532d8481c3a0673d428b.jpg",
+    "static/media/blog-1.jpg": "/Shop/static/media/blog-1.bb8f6f2dae95500b4173.jpg",
+    "index.html": "/Shop/index.html",
+    "main.a827fdd2.css.map": "/Shop/static/css/main.a827fdd2.css.map",
+    "main.a30f9d69.js.map": "/Shop/static/js/main.a30f9d69.js.map",
+    "453.8484b8ce.chunk.js.map": "/Shop/static/js/453.8484b8ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a827fdd2.css",
+    "static/js/main.a30f9d69.js"
+  ]
+}
